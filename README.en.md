@@ -2,7 +2,7 @@
 
 [中文](README.md)
 
-**Fill in one household financial checkup questionnaire, get a clear picture of your family's financial health, plus a one-page family Investment Policy Statement. No sign-up, nothing leaves your browser, no products for sale.**
+For years I mistook stock picking and VC for investing; it took me a long time to see that asset allocation is one of the most important ideas in personal investing. This tool shows you exactly where your family's finances stand and gives you a one-page family investment policy statement. No sign-up, your data stays in your browser, no products for sale.
 
 Try it: **[longarcsociety.com/tools/checkup](https://longarcsociety.com/tools/checkup)** (Chinese interface)
 
